@@ -4,6 +4,10 @@
 ```bash
 git clone https://github.com/RahulGupta899/LifePlanner_Backend
 ```
+## change directory
+```bash
+cd LifePlanner_Backend
+```
 
 ## Install Packages
 ```bash
