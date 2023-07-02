@@ -2,7 +2,7 @@
 
 ## Clone the Repository
 ```bash
-https://github.com/RahulGupta899/LifePlanner_Backend
+git clone https://github.com/RahulGupta899/LifePlanner_Backend
 ```
 
 ## Install Packages
