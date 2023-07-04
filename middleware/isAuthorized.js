@@ -31,16 +31,3 @@ exports.isAuthorized = async(req,res,next)=>{
 }
 
 
-
-// const token = req.cookies.token || req.header('Authorization').replace("Bearer ",'')
-    
-//         if(!token){
-//             return next(new Error('Login first to access this page...'))
-//         }
-    
-//         const decode = jwt.verify(token,process.env.JWT_SECRET)
-    
-//         // Attach User to request object
-//         req.user = await User.findById(decode.id).select("+password")
-//         console.log("User Logged In..")
-//         next();
